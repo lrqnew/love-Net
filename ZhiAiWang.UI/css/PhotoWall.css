@@ -1,0 +1,75 @@
+﻿ * {
+    padding: 0px;
+    padding: 0px;
+}
+
+div {
+    display: block;
+}
+
+body {
+    font-size: 14px;
+    font-family: 微软雅黑;
+    color: rgb(0, 0, 0);
+    line-height: 1.7;
+}
+
+#all {
+    width: 67%;
+    margin: auto;
+}
+
+.bieda {
+    width: 100%;
+    height: 24px;
+   
+}
+
+.photo_tab {
+    width: 100%;
+    height: 40px;
+}
+
+    .photo_tab ul li {
+        list-style: none;
+        float: left;
+    }
+
+        .photo_tab ul li a {
+            display: block;
+            width: 80px;
+            height: 30px;
+            line-height: 30px;
+            text-decoration: none;
+            background: #b6ff00;
+            text-align: center;
+            margin: 5px;
+            border-radius: 3px;
+        }
+
+.page_foot span {
+    background: #d86ea3;
+    color: #fff;
+    padding: 3px 10px;
+}
+
+.page_foot span, a {
+    margin: 0;
+    border-radius: 5px;
+}
+
+.page_foot a {
+    margin-left: 8px;
+}
+
+a {
+    text-decoration: none;
+    color: #888;
+}
+
+main {
+    width: 100%;
+ 
+}
+
+

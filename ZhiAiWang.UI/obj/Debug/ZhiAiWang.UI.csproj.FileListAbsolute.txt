@@ -1,0 +1,646 @@
+D:\项目\ZhiAiWang.UI\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csprojResolveAssemblyReference.cache
+D:\项目\ZhiAiWang.UI\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll
+D:\项目\ZhiAiWang.UI\ZhiAiWang.UI\bin\ZhiAiWang.UI.pdb
+D:\项目\ZhiAiWang.UI\ZhiAiWang.UI\bin\ZhiAiWang.BLL.dll
+D:\项目\ZhiAiWang.UI\ZhiAiWang.UI\bin\ZhiAiWang.DAL.dll
+D:\项目\ZhiAiWang.UI\ZhiAiWang.UI\bin\ZhiAiWang.BLL.pdb
+D:\项目\ZhiAiWang.UI\ZhiAiWang.UI\bin\ZhiAiWang.DAL.pdb
+D:\项目\ZhiAiWang.UI\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.dll
+D:\项目\ZhiAiWang.UI\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.pdb
+C:\Users\qing1\Desktop\ZhiAiWang.UI\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll
+C:\Users\qing1\Desktop\ZhiAiWang.UI\ZhiAiWang.UI\bin\ZhiAiWang.UI.pdb
+C:\Users\qing1\Desktop\ZhiAiWang.UI\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\qing1\Desktop\ZhiAiWang.UI\ZhiAiWang.UI\bin\ZhiAiWang.BLL.dll
+C:\Users\qing1\Desktop\ZhiAiWang.UI\ZhiAiWang.UI\bin\ZhiAiWang.DAL.dll
+C:\Users\qing1\Desktop\ZhiAiWang.UI\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\qing1\Desktop\ZhiAiWang.UI\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\qing1\Desktop\ZhiAiWang.UI\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.dll
+C:\Users\qing1\Desktop\ZhiAiWang.UI\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\qing1\Desktop\ZhiAiWang.UI\ZhiAiWang.UI\bin\ZhiAiWang.BLL.pdb
+C:\Users\qing1\Desktop\ZhiAiWang.UI\ZhiAiWang.UI\bin\ZhiAiWang.DAL.pdb
+C:\Users\qing1\Desktop\ZhiAiWang.UI\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\qing1\Desktop\ZhiAiWang.UI\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\qing1\Desktop\ZhiAiWang.UI\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\qing1\Desktop\ZhiAiWang.UI\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\qing1\Desktop\ZhiAiWang.UI\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\qing1\Desktop\ZhiAiWang.UI\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.pdb
+C:\Users\qing1\Desktop\ZhiAiWang.UI\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\qing1\Desktop\ZhiAiWang.UI\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csprojResolveAssemblyReference.cache
+C:\Users\qing1\Desktop\ZhiAiWang.UI\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.dll
+C:\Users\qing1\Desktop\ZhiAiWang.UI\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csprojResolveAssemblyReference.cache
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.pdb
+G:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll
+G:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.pdb
+G:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.dll
+G:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.dll
+G:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.pdb
+G:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.pdb
+G:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csprojResolveAssemblyReference.cache
+G:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.dll
+G:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.pdb
+E:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll
+E:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.pdb
+E:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.dll
+E:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.dll
+E:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.dll
+E:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.dll
+E:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.dll
+E:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.pdb
+E:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.pdb
+E:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.pdb
+E:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.pdb
+E:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csprojResolveAssemblyReference.cache
+E:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.dll
+E:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.pdb
+G:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.dll
+G:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.dll
+G:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.pdb
+G:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.pdb
+G:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.dll
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.dll
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.dll
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.dll
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.dll
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.pdb
+F:\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csprojResolveAssemblyReference.cache
+F:\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll
+F:\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.pdb
+F:\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.dll
+F:\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.dll
+F:\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.dll
+F:\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.pdb
+F:\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.pdb
+F:\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.pdb
+F:\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.dll
+F:\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\AspNetPager.dll
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll.config
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.UI.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.BLL.dll
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.DAL.dll
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.Model.dll
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.dll
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.BLL.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.DAL.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.Model.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.dll
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.pdb
+D:\QQDown\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll.config
+D:\QQDown\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll
+D:\QQDown\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.UI.pdb
+D:\QQDown\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.BLL.dll
+D:\QQDown\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.DAL.dll
+D:\QQDown\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.Model.dll
+D:\QQDown\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.BLL.pdb
+D:\QQDown\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.DAL.pdb
+D:\QQDown\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.Model.pdb
+D:\QQDown\Desktop\ZhiAiWang1\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csprojResolveAssemblyReference.cache
+D:\QQDown\Desktop\ZhiAiWang1\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.dll
+D:\QQDown\Desktop\ZhiAiWang1\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.pdb
+D:\QQDown\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\QQDown\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\QQDown\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.dll
+D:\QQDown\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.dll
+D:\QQDown\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.dll
+D:\QQDown\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\QQDown\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\QQDown\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\QQDown\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\QQDown\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\QQDown\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.pdb
+D:\QQDown\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll.config
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.UI.pdb
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.BLL.dll
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.DAL.dll
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.Model.dll
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.dll
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.BLL.pdb
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.DAL.pdb
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.Model.pdb
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.pdb
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.dll
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.pdb
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Newtonsoft.Json.pdb
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Newtonsoft.Json.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.UI\bin\Newtonsoft.Json.xml
+D:\QQ文档\ZhiAiWang1\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll
+D:\QQ文档\ZhiAiWang1\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.UI.pdb
+D:\QQ文档\ZhiAiWang1\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\QQ文档\ZhiAiWang1\ZhiAiWang1\ZhiAiWang.UI\bin\Newtonsoft.Json.dll
+D:\QQ文档\ZhiAiWang1\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.BLL.dll
+D:\QQ文档\ZhiAiWang1\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.DAL.dll
+D:\QQ文档\ZhiAiWang1\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.Model.dll
+D:\QQ文档\ZhiAiWang1\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\QQ文档\ZhiAiWang1\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.dll
+D:\QQ文档\ZhiAiWang1\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.dll
+D:\QQ文档\ZhiAiWang1\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.dll
+D:\QQ文档\ZhiAiWang1\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.BLL.pdb
+D:\QQ文档\ZhiAiWang1\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.DAL.pdb
+D:\QQ文档\ZhiAiWang1\ZhiAiWang1\ZhiAiWang.UI\bin\ZhiAiWang.Model.pdb
+D:\QQ文档\ZhiAiWang1\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\QQ文档\ZhiAiWang1\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\QQ文档\ZhiAiWang1\ZhiAiWang1\ZhiAiWang.UI\bin\Newtonsoft.Json.pdb
+D:\QQ文档\ZhiAiWang1\ZhiAiWang1\ZhiAiWang.UI\bin\Newtonsoft.Json.xml
+D:\QQ文档\ZhiAiWang1\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\QQ文档\ZhiAiWang1\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\QQ文档\ZhiAiWang1\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\QQ文档\ZhiAiWang1\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.pdb
+D:\QQ文档\ZhiAiWang1\ZhiAiWang1\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.pdb
+D:\QQ文档\ZhiAiWang1\ZhiAiWang1\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csprojResolveAssemblyReference.cache
+D:\QQ文档\ZhiAiWang1\ZhiAiWang1\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.dll
+D:\QQ文档\ZhiAiWang1\ZhiAiWang1\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll.config
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csproj.CopyComplete
+C:\Users\qing1\Desktop\新建文件夹 (3)\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll
+C:\Users\qing1\Desktop\新建文件夹 (3)\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.pdb
+C:\Users\qing1\Desktop\新建文件夹 (3)\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\qing1\Desktop\新建文件夹 (3)\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.dll
+C:\Users\qing1\Desktop\新建文件夹 (3)\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.dll
+C:\Users\qing1\Desktop\新建文件夹 (3)\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.dll
+C:\Users\qing1\Desktop\新建文件夹 (3)\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.dll
+C:\Users\qing1\Desktop\新建文件夹 (3)\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\qing1\Desktop\新建文件夹 (3)\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\qing1\Desktop\新建文件夹 (3)\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.dll
+C:\Users\qing1\Desktop\新建文件夹 (3)\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\qing1\Desktop\新建文件夹 (3)\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.pdb
+C:\Users\qing1\Desktop\新建文件夹 (3)\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.pdb
+C:\Users\qing1\Desktop\新建文件夹 (3)\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.pdb
+C:\Users\qing1\Desktop\新建文件夹 (3)\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\qing1\Desktop\新建文件夹 (3)\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\qing1\Desktop\新建文件夹 (3)\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.pdb
+C:\Users\qing1\Desktop\新建文件夹 (3)\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.xml
+C:\Users\qing1\Desktop\新建文件夹 (3)\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\qing1\Desktop\新建文件夹 (3)\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\qing1\Desktop\新建文件夹 (3)\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\qing1\Desktop\新建文件夹 (3)\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.pdb
+C:\Users\qing1\Desktop\新建文件夹 (3)\Desktop\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\qing1\Desktop\新建文件夹 (3)\Desktop\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csprojResolveAssemblyReference.cache
+C:\Users\qing1\Desktop\新建文件夹 (3)\Desktop\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.dll
+C:\Users\qing1\Desktop\新建文件夹 (3)\Desktop\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.pdb
+C:\Users\qing1\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll
+C:\Users\qing1\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.pdb
+C:\Users\qing1\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\qing1\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.dll
+C:\Users\qing1\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.dll
+C:\Users\qing1\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.dll
+C:\Users\qing1\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.dll
+C:\Users\qing1\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\qing1\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\qing1\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.dll
+C:\Users\qing1\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\qing1\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.pdb
+C:\Users\qing1\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.pdb
+C:\Users\qing1\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.pdb
+C:\Users\qing1\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\qing1\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\qing1\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.pdb
+C:\Users\qing1\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.xml
+C:\Users\qing1\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\qing1\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\qing1\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\qing1\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.pdb
+C:\Users\qing1\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\qing1\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csprojResolveAssemblyReference.cache
+C:\Users\qing1\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.dll
+C:\Users\qing1\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.pdb
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.pdb
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.dll
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.dll
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.dll
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.dll
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.dll
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.pdb
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.pdb
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.pdb
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.pdb
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.xml
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.pdb
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csprojResolveAssemblyReference.cache
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.dll
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.pdb
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll.config
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csproj.CoreCompileInputs.cache
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csproj.CopyComplete
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll.config
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.pdb
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.dll
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.dll
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.dll
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.dll
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.pdb
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.pdb
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.pdb
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.pdb
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.pdb
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csproj.CopyComplete
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.dll
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.pdb
+F:\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.dll
+F:\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.dll
+F:\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.dll
+F:\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.dll
+F:\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+F:\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+F:\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.pdb
+F:\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.xml
+F:\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+F:\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+F:\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.pdb
+F:\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.pdb
+F:\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll.config
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.pdb
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.dll
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.dll
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.dll
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.dll
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.pdb
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.pdb
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.pdb
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.pdb
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.pdb
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csproj.CopyComplete
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.dll
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll.config
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.xml
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csprojResolveAssemblyReference.cache
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csproj.CoreCompileInputs.cache
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csproj.CopyComplete
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.pdb
+C:\Users\user\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll.config
+C:\Users\user\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll
+C:\Users\user\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.pdb
+C:\Users\user\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\user\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.dll
+C:\Users\user\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.dll
+C:\Users\user\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.dll
+C:\Users\user\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\user\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\user\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.dll
+C:\Users\user\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\user\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.pdb
+C:\Users\user\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.pdb
+C:\Users\user\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.pdb
+C:\Users\user\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\user\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\user\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.pdb
+C:\Users\user\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\user\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\user\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\user\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.pdb
+C:\Users\user\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\user\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.dll
+C:\Users\user\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.pdb
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll.config
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.pdb
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.dll
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.dll
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.dll
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.dll
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.dll
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.pdb
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.pdb
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.pdb
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.pdb
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.xml
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.pdb
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csprojResolveAssemblyReference.cache
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csproj.CoreCompileInputs.cache
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csproj.CopyComplete
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.dll
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.pdb
+C:\Users\user\Desktop\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll.config
+C:\Users\user\Desktop\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll
+C:\Users\user\Desktop\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.pdb
+C:\Users\user\Desktop\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\user\Desktop\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.dll
+C:\Users\user\Desktop\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.dll
+C:\Users\user\Desktop\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.dll
+C:\Users\user\Desktop\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\user\Desktop\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\user\Desktop\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.dll
+C:\Users\user\Desktop\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\user\Desktop\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.pdb
+C:\Users\user\Desktop\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.pdb
+C:\Users\user\Desktop\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.pdb
+C:\Users\user\Desktop\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\user\Desktop\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\user\Desktop\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.pdb
+C:\Users\user\Desktop\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\user\Desktop\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\user\Desktop\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\user\Desktop\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.pdb
+C:\Users\user\Desktop\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\user\Desktop\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.dll
+C:\Users\user\Desktop\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.pdb
+C:\Users\user\Desktop\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\致爱网1\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll.config
+C:\Users\Administrator\Desktop\致爱网1\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll
+C:\Users\Administrator\Desktop\致爱网1\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.pdb
+C:\Users\Administrator\Desktop\致爱网1\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Administrator\Desktop\致爱网1\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\致爱网1\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.dll
+C:\Users\Administrator\Desktop\致爱网1\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.dll
+C:\Users\Administrator\Desktop\致爱网1\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.dll
+C:\Users\Administrator\Desktop\致爱网1\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Administrator\Desktop\致爱网1\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Administrator\Desktop\致爱网1\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.dll
+C:\Users\Administrator\Desktop\致爱网1\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Administrator\Desktop\致爱网1\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.pdb
+C:\Users\Administrator\Desktop\致爱网1\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.pdb
+C:\Users\Administrator\Desktop\致爱网1\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.pdb
+C:\Users\Administrator\Desktop\致爱网1\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\Administrator\Desktop\致爱网1\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Administrator\Desktop\致爱网1\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.pdb
+C:\Users\Administrator\Desktop\致爱网1\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\致爱网1\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Administrator\Desktop\致爱网1\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Administrator\Desktop\致爱网1\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Administrator\Desktop\致爱网1\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.pdb
+C:\Users\Administrator\Desktop\致爱网1\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Administrator\Desktop\致爱网1\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\致爱网1\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\致爱网1\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csproj.CopyComplete
+C:\Users\Administrator\Desktop\致爱网1\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.dll
+C:\Users\Administrator\Desktop\致爱网1\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll.config
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.dll
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.dll
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.dll
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.dll
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.dll
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll.config
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.xml
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csprojResolveAssemblyReference.cache
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csproj.CoreCompileInputs.cache
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csproj.CopyComplete
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.pdb
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csprojResolveAssemblyReference.cache
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csproj.CoreCompileInputs.cache
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.dll
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.pdb
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll.config
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.pdb
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.dll
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.dll
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.dll
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.dll
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.dll
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.dll
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.dll
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.pdb
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.pdb
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.pdb
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.pdb
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.xml
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.pdb
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.pdb
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll.config
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.dll
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.UI.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.dll
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.dll
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.dll
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.dll
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.BLL.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.DAL.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\ZhiAiWang.Model.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.dll
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.UI\obj\Debug\ZhiAiWang.UI.pdb

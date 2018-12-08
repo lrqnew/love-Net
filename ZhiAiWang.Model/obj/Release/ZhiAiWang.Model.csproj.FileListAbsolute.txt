@@ -1,0 +1,5 @@
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.Model\bin\Release\ZhiAiWang.Model.dll
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.Model\bin\Release\ZhiAiWang.Model.pdb
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.Model\obj\Release\ZhiAiWang.Model.csprojResolveAssemblyReference.cache
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.Model\obj\Release\ZhiAiWang.Model.dll
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.Model\obj\Release\ZhiAiWang.Model.pdb

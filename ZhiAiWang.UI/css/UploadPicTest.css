@@ -1,0 +1,7 @@
+﻿.pic_text { color: Red; }
+.pic_label { color: Gray; margin-top: 5px; margin-bottom: 5px; }
+.pic_image { height: 200px; margin: 5px; width: 200px; }
+.picshow { width: 200px; height: 200px; }
+#pic_upload { background-color: #000000; height: 25px; left: 0; margin: 2px; opacity: 0; top: 0; width: 100px; }
+.file_div { border: 1px solid #CCCCCC; height: 25px; line-height: 25px; text-align: center; width: 125px; }
+.file_div > span { left: 40px; position: absolute; z-index: -1; }

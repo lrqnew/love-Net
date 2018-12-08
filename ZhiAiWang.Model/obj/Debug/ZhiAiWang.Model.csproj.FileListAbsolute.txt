@@ -1,0 +1,100 @@
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.pdb
+G:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.dll
+G:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.pdb
+G:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.dll
+G:\项目\卓越项目-致爱网\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.pdb
+F:\ZhiAiWang\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.dll
+F:\ZhiAiWang\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.pdb
+F:\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.dll
+F:\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.dll
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.dll
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.pdb
+D:\QQDown\Desktop\ZhiAiWang1\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.dll
+D:\QQDown\Desktop\ZhiAiWang1\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.pdb
+D:\QQDown\Desktop\ZhiAiWang1\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.dll
+D:\QQDown\Desktop\ZhiAiWang1\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.pdb
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.dll
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.pdb
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.dll
+C:\Users\Administrator\Desktop\Desktop (1)\Desktop\ZhiAiWang1\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang1\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.dll
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.dll
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.pdb
+C:\Users\qing1\Desktop\新建文件夹 (3)\Desktop\ZhiAiWang\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.dll
+C:\Users\qing1\Desktop\新建文件夹 (3)\Desktop\ZhiAiWang\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.pdb
+C:\Users\qing1\Desktop\新建文件夹 (3)\Desktop\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.dll
+C:\Users\qing1\Desktop\新建文件夹 (3)\Desktop\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.pdb
+C:\Users\qing1\Desktop\致爱网\ZhiAiWang\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.dll
+C:\Users\qing1\Desktop\致爱网\ZhiAiWang\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.pdb
+C:\Users\qing1\Desktop\致爱网\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.dll
+C:\Users\qing1\Desktop\致爱网\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.pdb
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.dll
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.pdb
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.dll
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.pdb
+C:\Users\qing1\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.dll
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.pdb
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.dll
+C:\Users\Administrator\Desktop\致爱网1\致爱网\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.pdb
+F:\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.dll
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.pdb
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.dll
+C:\Users\Administrator\Desktop\致爱网\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.pdb
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.csprojResolveAssemblyReference.cache
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.csproj.CoreCompileInputs.cache
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.dll
+C:\Users\qing1\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.pdb
+C:\Users\user\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.dll
+C:\Users\user\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.pdb
+C:\Users\user\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.dll
+C:\Users\user\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.pdb
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.dll
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.pdb
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.csprojResolveAssemblyReference.cache
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.csproj.CoreCompileInputs.cache
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.dll
+C:\Users\qing1\Desktop\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.pdb
+C:\Users\user\Desktop\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.dll
+C:\Users\user\Desktop\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.pdb
+C:\Users\user\Desktop\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.dll
+C:\Users\user\Desktop\最后\最后\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.dll
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.dll
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.csprojResolveAssemblyReference.cache
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.dll
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.pdb
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.csprojResolveAssemblyReference.cache
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.csproj.CoreCompileInputs.cache
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.dll
+D:\QQ文档\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.dll
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\bin\Debug\ZhiAiWang.Model.pdb
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.dll
+C:\Users\Administrator\Desktop\ZhiAiWang (2)\ZhiAiWang\ZhiAiWang\ZhiAiWang.Model\obj\Debug\ZhiAiWang.Model.pdb

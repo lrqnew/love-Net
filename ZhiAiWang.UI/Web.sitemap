@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="index.aspx" title="首页"  description="">
+        <siteMapNode url="" title="交友"  description="" >
+          <siteMapNode url="" title="微信交友"></siteMapNode>
+          <siteMapNode url="PhotoWall.aspx" title="照片墙"></siteMapNode>
+        </siteMapNode>
+        <siteMapNode url="Activit.aspx" title="活动"  description=""/>
+        <siteMapNode url="Hongniang.aspx" title="红娘"  description="" />
+        <siteMapNode url="" title="学堂"  description="" />
+        <siteMapNode url="" title="交友圈"  description="">
+          <siteMapNode url="friends.aspx" title="恋爱交友圈"></siteMapNode>
+          <siteMapNode url="Question.aspx" title="问答"></siteMapNode>
+        </siteMapNode>
+        <siteMapNode url="hunqing.aspx" title="婚庆"  description="" />
+        <siteMapNode url="" title="月嫂"  description="" />
+    </siteMapNode>
+</siteMap>

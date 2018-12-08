@@ -1,0 +1,435 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+
+/*红娘首页///////////////////////////////////////////////////////////////////*/
+.hnbanner{ margin-top:115px; position:relative}
+.hnbanner img{ width:100%;}
+.hnbanner .sqhnfw{width:240px; height:50px; padding:4px 30px; background:#8757c9; position:absolute;left:40%; bottom:30%; border:solid 2px #c59839; border-radius:5px;}
+.hnbanner .sqhnfw input{ width:230px; height:50px; margin:0 auto; padding-left:50px; background:url(../images/sqhnfw_03.png) no-repeat left center; left:40%; bottom:30%; color:#fff; font-size:20px; border:none; cursor:pointer;}
+
+/*红娘介绍*/
+.hnjs{ width:1190px; margin:50px auto;}
+.hnjs li{ text-align:center; width:23%; margin:0 0.5%; float:left;}
+
+/*优质会员*/
+.viplist{ width:1192px;}
+.vipbj{ width:100%; height:920px; background:#fafafa; margin-top:50px; border-top: solid 1px #d9d8d8; padding:20px 0}
+.yzvip{ width:1190px; background:#fafafa; margin:0 auto;}
+.yzvip h2{ text-align:center; font-size:50px; color:#5e11c5; font-weight:normal;}
+.yzvip p a{ width:80px; height:29px; border:solid 1px #ccc; background:#fff; color:#666; text-align:center; line-height:29px; padding:4px 10px; border-radius:5px; display:block; font-size:18px; margin:20px auto;}
+.yzvip li{ width:23%; margin:10px 1%; float:left; position:relative; height: 329px;}
+.yzvip li img{ width:100%}
+.vipxq{ position:absolute; left:0 ; bottom:0px; text-align:center; width:100%; height:77px; background:rgba(225,225,225,0.7);}
+.vipxq .vipbt{ font-size:16px; color:#5e11c5; font-weight:bold; line-height:40px;}
+.vipxq .vipshe span{ margin:0 6px; color:#666;}
+
+
+/*婚恋顾问*/
+.guwen h3{ text-align: center; color: #e8b343; font-size: 40px; font-weight: normal; margin-top:50px;}
+.guwen p{ text-align: center; color: #e8b343; line-height: 40px; font-size:16px;}
+.guwen .more a{ width: 100px; height: 38px; border: solid 1px #cccccc; padding: 4px 10px; border-radius: 10px; display:block; margin: 30px auto; font-size: 18px; background:#fff;}
+
+a.abtn{display:block;height:357px;width:35px;overflow:hidden;background:url(../images/left_03.png) no-repeat 0px 50%;}
+a.aleft{float:left;}
+/*a.agrayleft{cursor:default;background-position:-34px 50%;}*/
+a.aright{float:right;background:url(../images/right_03.png) no-repeat 0px 50%; height:357px;width:35px;}
+/*a.agrayright{cursor:default;background-position:-51px 50%; }*/
+.scrolllist{width:1290px;height:475px;margin:0 auto;}
+.scrolllist .imglist_w{width:1216px;height:446px;overflow:hidden;float:left;position:relative;/*必要元素*/}
+.scrolllist .imglist_w ul{width:20000px;position:absolute;left:0px;top:0px;}
+.scrolllist .imglist_w li{width:290px;float:left; margin:0 7px;}
+.scrolllist .imglist_w li img{padding:2px;border:solid 1px #ddd; width:283px; height:353px;}
+.scrolllist .imglist_w li h4{ font-size:24px;}
+.scrolllist .imglist_w li a{color:#3366cc;text-decoration:none;float:left;}
+/*.scrolllist .imglist_w li a:hover img{filter:alpha(opacity=86);-moz-opacity:0.86;opacity:0.86;}*/
+.scrolllist .imglist_w li .jhd{ height:24px; overflow:hidden; color:#666;}
+.scrolllist .imglist_w li p{line-height:24px;overflow:hidden; text-align:center;}
+.scrolllist .imglist_w li p input{ width:125px; height:37px; border-radius:5px; font-size:16px; border:none; color:#fff; background:#d86ea3; font-weight:bold; margin-top:10px; cursor:pointer;}
+.scrolllist .imglist_w .gwname{ text-align: center; font-size: 20px; color: #fff; line-height: 40px;}
+
+
+/*红娘老师列表///////////////////////////////////////////////////////////////////*/
+.teacher_banner{ margin-top:115px; position: relative; }
+.teacher_banner{
+    -webkit-animation: tada 1s .2s ease both;
+    -moz-animation: tada 1s .2s ease both;
+   }
+
+   @-webkit-keyframes tada {
+    0% {
+     -webkit-transform: scale(1)
+    }
+    10%,
+    20% {
+     -webkit-transform: scale(0.9) rotate(-3deg)
+    }
+    30%,
+    50%,
+    70%,
+    90% {
+     -webkit-transform: scale(1.1) rotate(3deg)
+    }
+    40%,
+    60%,
+    80% {
+     -webkit-transform: scale(1.1) rotate(-3deg)
+    }
+    100% {
+     -webkit-transform: scale(1) rotate(0)
+    }
+   }
+
+   @-moz-keyframes tada {
+    0% {
+     -moz-transform: scale(1)
+    }
+    10%,
+    20% {
+     -moz-transform: scale(0.9) rotate(-3deg)
+    }
+    30%,
+    50%,
+    70%,
+    90% {
+     -moz-transform: scale(1.1) rotate(3deg)
+    }
+    40%,
+    60%,
+    80% {
+     -moz-transform: scale(1.1) rotate(-3deg)
+    }
+    100% {
+     -moz-transform: scale(1) rotate(0)
+    }
+   }
+.teacher_banner img{ width: 100%;}
+.teacher_banner  .sqhnfw{width:240px; height:50px; padding:4px 30px; background:#8757c9; position:absolute;left:40%; bottom:20%; border:solid 2px #c59839; border-radius:5px;}
+
+
+.teacher_banner  .sqhnfw {
+    -webkit-animation: flipInX 1s .2s ease both;
+    -moz-animation: flipInX 1s .2s ease both; animation-delay:1.2s;
+   }
+
+   @-webkit-keyframes flipInX {
+    0% {
+     -webkit-transform: perspective(400px) rotateX(90deg);
+     opacity: 0
+    }
+    40% {
+     -webkit-transform: perspective(400px) rotateX(-10deg)
+    }
+    70% {
+     -webkit-transform: perspective(400px) rotateX(10deg)
+    }
+    100% {
+     -webkit-transform: perspective(400px) rotateX(0deg);
+     opacity: 1
+    }
+   }
+
+   @-moz-keyframes flipInX {
+    0% {
+     -moz-transform: perspective(400px) rotateX(90deg);
+     opacity: 0
+    }
+    40% {
+     -moz-transform: perspective(400px) rotateX(-10deg)
+    }
+    70% {
+     -moz-transform: perspective(400px) rotateX(10deg)
+    }
+    100% {
+     -moz-transform: perspective(400px) rotateX(0deg);
+     opacity: 1
+    }
+   }
+
+
+.teacher_banner  .sqhnfw input{ width:230px; height:50px; margin:0 auto; padding-left:50px; background:url(../images/sqhnfw_03.png) no-repeat left center; left:40%; bottom:30%; color:#fff; font-size:20px; border:none; cursor:pointer;}
+
+.lslist{ width:1192px; margin:40px auto; overflow:hidden;}
+.lslist ul li{ float:left; width:23%; margin:20px 1%; text-align:center;}
+.lslist ul li img{ padding:1px; border:solid 1px #d4b36e;}
+.lslist ul li .lsxm{ font-size:20px; color:#5e11c5}
+.lslist ul li .lszw{ font-size:18px; color:#c59839}
+
+/*红娘老师详细///////////////////////////////////////////////////////////////////*/
+.techjs{ width:1190px; margin:0 auto; padding:50px 0; height:400px;}
+.techjs .teachimg{ float:left; width:297px;}
+.techjs .teachimg a{ padding:4px 10px; border:solid 1px #ccc; border-radius:5px; float:right}
+.techjs .teachimg a:hover{ background:#8757c9; color:#fff;}
+.techjs .tearight{ float:left; margin-left:80px; width:60%}
+.techjs .tearight h2{ color:#5e11c5; font-size:24px;}
+.techjs .tearight p{ font-size:18px; color:#b67e07; line-height:40px;}
+.techjs .tearight p span{ color:#6c6c6c}
+.techjs .tearight .gwxq{ color:#555; height:115px; overflow:hidden}
+.techjs .teachimg img{ border:solid 7px #c59839}
+.tearight  .sqhnfw{width:240px; height:50px; padding:4px 30px; background:#8757c9; border:solid 2px #c59839; border-radius:5px; margin-top:20px;}
+.tearight  .sqhnfw input{ width:230px; height:50px; margin:0 auto; padding-left:50px; background:url(../images/sqhnfw_03.png) no-repeat left center; left:40%; bottom:30%; color:#fff; font-size:20px; border:none; cursor:pointer;}
+
+/*VIP会员页 开始*/
+.vip_m_list{width: 1190px; margin:30px  auto 0px auto;}
+.xxk{width:320px;margin: 0px auto;}
+
+.xxk .sub_true{background: #f3f0f8;width: 150px;line-height: 64px;text-align: center;font-size: 36px;color: #d86ea3;float: left;cursor: pointer;margin-left: 10px;}
+
+
+
+
+.xxk .sub_true{
+    -webkit-animation: bounce 1s .2s ease both;
+    -moz-animation: bounce 1s .2s ease both;
+   }
+
+   @-webkit-keyframes bounce {
+    0%,
+    20%,
+    50%,
+    80%,
+    100% {
+     -webkit-transform: translateY(0)
+    }
+    40% {
+     -webkit-transform: translateY(-30px)
+    }
+    60% {
+     -webkit-transform: translateY(-15px)
+    }
+   }
+
+   @-moz-keyframes bounce {
+    0%,
+    20%,
+    50%,
+    80%,
+    100% {
+     -moz-transform: translateY(0)
+    }
+    40% {
+     -moz-transform: translateY(-30px)
+    }
+    60% {
+     -moz-transform: translateY(-15px)
+    }
+   }
+
+
+
+.xxk .sub_false{background: #f5f5f5;width: 150px;line-height: 64px;text-align: center;font-size: 36px;color: #adab9b;float: left;margin-left: 10px;cursor: pointer;}
+
+
+
+.xxk .sub_false{
+    -webkit-animation: bounce 1s .2s ease both;
+    -moz-animation: bounce 1s .2s ease both; animation-delay:0.5s;
+   }
+
+   @-webkit-keyframes bounce {
+    0%,
+    20%,
+    50%,
+    80%,
+    100% {
+     -webkit-transform: translateY(0)
+    }
+    40% {
+     -webkit-transform: translateY(-30px)
+    }
+    60% {
+     -webkit-transform: translateY(-15px)
+    }
+   }
+
+   @-moz-keyframes bounce {
+    0%,
+    20%,
+    50%,
+    80%,
+    100% {
+     -moz-transform: translateY(0)
+    }
+    40% {
+     -moz-transform: translateY(-30px)
+    }
+    60% {
+     -moz-transform: translateY(-15px)
+    }
+   }
+
+.vip_m_list .main{clear: both;margin-left: -33px;}
+/*#main_jl{display: none;}*/
+#main_cj{display: block;}
+
+ #main_cj{
+    -webkit-animation: fadeInLeftBig 1s .2s ease both;
+    -moz-animation: fadeInLeftBig 1s .2s ease both;
+   }
+
+   @-webkit-keyframes fadeInLeftBig {
+    0% {
+     opacity: 0;
+     -webkit-transform: translateX(-2000px)
+    }
+    100% {
+     opacity: 1;
+     -webkit-transform: translateX(0)
+    }
+   }
+
+   @-moz-keyframes fadeInLeftBig {
+    0% {
+     opacity: 0;
+     -moz-transform: translateX(-2000px)
+    }
+    100% {
+     opacity: 1;
+     -moz-transform: translateX(0)
+    }
+   }
+
+/*.vip_m_list .main ul li{float: left;}*/
+.vip_m_list .main .main_sub{width: 264px;height: 329px;position: relative;float: left;margin-left: 33px;margin-top: 30px;}
+
+.vip_m_list .main .main_sub{
+    -webkit-animation: fadeInLeftBig 1s .2s ease both;
+    -moz-animation: fadeInLeftBig 1s .2s ease both;
+   }
+
+   @-webkit-keyframes fadeInLeftBig {
+    0% {
+     opacity: 0;
+     -webkit-transform: translateX(-2000px)
+    }
+    100% {
+     opacity: 1;
+     -webkit-transform: translateX(0)
+    }
+   }
+
+   @-moz-keyframes fadeInLeftBig {
+    0% {
+     opacity: 0;
+     -moz-transform: translateX(-2000px)
+    }
+    100% {
+     opacity: 1;
+     -moz-transform: translateX(0)
+    }
+   }
+.vip_m_list .main .main_sub2{width: 264px;height: 329px;position: relative;float: left;margin-left: 33px;margin-top: 30px;}
+
+.vip_m_list .main .main_sub2{
+    -webkit-animation: fadeInLeftBig 1s .2s ease both;
+    -moz-animation: fadeInLeftBig 1s .2s ease both;
+   }
+
+   @-webkit-keyframes fadeInLeftBig {
+    0% {
+     opacity: 0;
+     -webkit-transform: translateX(-2000px)
+    }
+    100% {
+     opacity: 1;
+     -webkit-transform: translateX(0)
+    }
+   }
+
+   @-moz-keyframes fadeInLeftBig {
+    0% {
+     opacity: 0;
+     -moz-transform: translateX(-2000px)
+    }
+    100% {
+     opacity: 1;
+     -moz-transform: translateX(0)
+    }
+   }
+
+.fk{text-align: center;background: #fff;position: absolute;width: 264px;line-height: 40px;bottom: 0px; filter: alpha(opacity=70);opacity: 0.7;display: none;}
+.fk .t1{font-size: 18px;color: #5e11c5;}
+.fk .t2{font-size: 14px;}
+
+.fk2{text-align: center;background: #fff;position: absolute;width: 264px;line-height: 40px;bottom: 0px; filter: alpha(opacity=70);opacity: 0.7;display: none;}
+.fk2 .t1{font-size: 18px;color: #5e11c5;}
+.fk2 .t2{font-size: 14px;}
+
+/*VIP会员页 结束*/
+
+
+/*VIP会员详细*/
+.viphyjs{ width:1190px; margin:50px auto}
+.viphyjs p a{ color:#c59839; font-size:30px;}
+.viphyjs_left{ width:331px; float:left; text-align:center; text-decoration:underline;}
+
+.viphyjs_right{ float:left; width:840px; margin-left:19px}
+.viphyjs_right h3{ font-size:24px; color:#dd506f;}
+.viphyjs_right ul li{ width:30%; float:left; line-height:40px; font-size:16px; color:#666;}
+.viphyjs_right ul{ margin-top:30px;}
+.viphyjs_right .neixin{ margin:20px 0}
+.viphyjs_right .neixin h2{ color:#5e11c5}
+.viphyjs_right .neixin p{ font-size:16px; color:#999; line-height:40px;}
+.viphyjs_right .neixin h2 span{ border-bottom:solid 2px #c59839; font-size:24px; padding-bottom:5px}
+
+.viphyjs_right .hnyzdt{ margin:20px 0}
+.viphyjs_right .hnyzdt h2{ color:#5e11c5}
+.viphyjs_right .hnyzdt p{ font-size:16px; color:#000; line-height:40px;}
+.viphyjs_right .hnyzdt h2 span{ border-bottom:solid 2px #c59839; font-size:24px; padding-bottom:5px}
+/*VIP会员详细*/
+
+
+/*恋爱百科*/
+.lovebox { width:1190px; margin:0 auto;}
+.lovebox .love_left{ width:264px; height:477px; background:#fff; padding:10px; float:left;}
+.lovebox .love_left .tis{ width:263px; height:183px; background:url(../images/lovelf.jpg) no-repeat}
+.lovebox .love_left .tis p{text-align:center; padding-top:100px; color:#fff;}
+.lovebox .love_left .lowx{ width:137px; margin:30px auto}
+.lovebox .love_left .lowx p{ font-size:12px; text-align:center}
+
+.love_right{ width:890px; float:right;}
+.love_right li{ width:284px; background:#f9f9f9; float:left; margin:6px;}
+.love_right li{-webkit-transition:all .7s ease-out .1s;-moz-transition:all .7s ease-out;-o-transition:all .7s ease-out .1s;transition:all .7s ease-out .1s }
+.love_right li h3{ color:#d76fa4; height: 50px;}
+.love_righttop{ padding:20px;}
+.love_rightbottom{ background:#fff; padding:20px; padding-bottom:40px;}
+.love_rightbottom p{ height:92px; overflow:hidden;}
+.ydxq{ width:83px; height:28px; background:#d76fa4; text-align:center; line-height:28px; float:right; margin:4px 0}
+.ydxq a{ color:#fff; padding-left:15px; background:url(../images/lover.png) no-repeat left center}
+/*恋爱百科详情*/
+
+/*媒体报道详情*/
+.loverbaike{ width:1090px; margin:0 auto; background:#fff; text-align:center;  padding:0 50px;padding-top:40px; margin-bottom:40px;}
+.loverbaike h2{ color:#d76fa4; font-size:30px;}
+.loverbaike .mtbd_top{ margin-bottom:30px;}
+.loverbaike .mtbd_top p span{ padding:0 20px; color:#999; font-size:16px;}
+.loverbaike_section p{ text-align:left; text-indent:2em; line-height:30px; margin:20px 0; font-size:16px}
+.loverbaike_section{ padding-bottom:30px;}
+.beizhu{ text-align:left; color:#999; padding:20px 0;}
+.beizhu span{ font-size:16px;}
+.Downxa{ width:1190px; margin:0 auto}
+.Downxa li{ padding:10px 0;}
+.Downxa li a:hover{ color:#d76fa4;}
+/*媒体报道详情*/
+
+/*会员权利*/
+
+
+/*会员权利*/
+.vip_qlsection{ width:1190px; margin:0 auto; margin-top:30px;}
+.vip_qlsection h3{ color:#d86ea3; font-size:24px;}
+.vip_qlsection .ktvip{ width:1128px; border:solid 1px #d9d8d8; background:#fff; padding:30px;}
+.vip_qlsection .ktvip ul li{ width:168px; padding:20px 40px; text-align:center; color:#fff; float:left; margin:0 17px;}
+.vip_qlsection .ktvip ul .ktvip1{ background:#d86e6e;}
+.vip_qlsection .ktvip ul .ktvip2{ background:#d86e93;}
+.vip_qlsection .ktvip ul .ktvip3{ background:#d86eaf;}
+.vip_qlsection .ktvip ul .ktvip4{ background:#d66ed8;}
+.vip_qlsection .ktvip ul li p{ border-top:solid 2px #fff; font-size:20px;}
+.vip_qlsection .ktvip ul li h4{ border-bottom:solid 2px #fff; font-size:34px;}
+.vip_qlsection .ktvip ul li h2{ font-size:50px;}
+.vip_qlsection .ktvip ul li h2 span{ font-size:30px; padding:0 10px}
+.vip_qlsection .ktvip ul li a{ width:127px; height:38px; display:block; text-align:center; line-height:38px; color:#fff; background:#f29005; margin:0 18px;}
+.ktvipsen{ margin-top:20px;}
+.ktvipsen h3{ padding-left:30px; color:#000; font-weight:normal; color:#505050; font-size:24px;}
+.vip_qlsection .ktvip .ktvipsen li{ width:100%; height:57px; background:#f8f8f8; color:#505050; text-align:left; padding:0 10px; margin:5px 0; line-height:57px; font-size:18px;}
+.vip_qlsection .ktvip .ktvipsen li span{ padding:0 10px;}

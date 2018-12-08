@@ -1,0 +1,227 @@
+﻿
+
+
+        * {
+            margin: 0px;
+            padding: 0px;
+        }
+
+        #banner {
+            width: 100%;
+        }
+
+            #banner #banimg {
+                width: 100%;
+            }
+
+        body {
+            background-color: #e8e8e8;
+            font-size: 14px;
+            font-family: 微软雅黑;
+            color: rgb(0, 0, 0);
+            line-height: 1.7;
+        }
+
+        .nav_ban {
+            background: #e55456;
+            width: 892px;
+            height: 110px;
+            margin: 20px auto 0 auto;
+            border-radius: 10px;
+        }
+
+            .nav_ban .left {
+                float: left;
+                margin-left: 30px;
+                margin-top: 5px;
+            }
+
+            .nav_ban .ti {
+                float: right;
+                width: 12px;
+                font-size: 14px;
+                color: #fff;
+                margin-right: 15px;
+                margin-left: 20px;
+                margin-right: 20px;
+            }
+
+        div {
+            display: block;
+        }
+
+        .nav_ban .right {
+            float: left;
+        }
+
+            .nav_ban .right ul {
+                background: #fff;
+                height: 92px;
+                margin-top: 9px;
+                border-radius: 10px;
+                display: block;
+            }
+
+                .nav_ban .right ul li {
+                    float: left;
+                    width: 236px;
+                    height: 80px;
+                    margin-top: 7px;
+                    text-align: center;
+                    border-right: 2px #dc3e65 solid;
+                }
+
+        ul, ol {
+            list-style: none;
+        }
+
+        .nav_ban a {
+            text-decoration: none;
+            color: #888;
+            font-size: 14px;
+        }
+
+        .nav_ban .right ul li p {
+            background: #fa8383;
+            color: #fff;
+            width: 200px;
+            margin: 6px auto 0 auto;
+            border-radius: 5px;
+        }
+
+        .wap {
+            clear: both;
+            width: 960px;
+            margin: 0 auto;
+            height: auto;
+        }
+
+        .sl_main1 .title {
+            background: url('../images/hunqing/sl_tit_bg.jpg') 0 0 no-repeat;
+            width: 951px;
+            line-height: 97px;
+            margin: 50px auto 0 auto;
+            color: #c30823;
+            font-size: 40px;
+            text-align: center;
+        }
+
+        .sl_main1 .sub {
+            width: 951px;
+            background: #f5f5f5;
+            height: 645px;
+            box-shadow: 3px 3px 5px #ccc;
+            margin-top: 27px;
+        }
+
+            .sl_main1 .sub .tit {
+                float: right;
+                margin-right: 20px;
+                margin-top: 28px;
+                height: 69px;
+            }
+
+            .sl_main1 .sub ul {
+                clear: both;
+                margin-left: 14px;
+            }
+
+                .sl_main1 .sub ul li {
+                    float: left;
+                    margin-left: 28px;
+                    margin-top: 28px;
+                }
+
+                    .sl_main1 .sub ul li p {
+                        font-size: 16px;
+                        margin-top: 5px;
+                        color: #333;
+                        font-weight: bold;
+                    }
+
+        .sl_main1 .sub2 {
+            width: 951px;
+            background: #f5f5f5;
+            height: 505px;
+            box-shadow: 3px 3px 5px #ccc;
+            margin-top: 27px;
+        }
+
+            .sl_main1 .sub2 .tit {
+                width: 180px;
+                color: #c30823;
+                font-size: 30px;
+                margin: 0px auto 0px auto;
+                padding-top: 30px;
+            }
+
+                .sl_main1 .sub2 .tit span {
+                    display: block;
+                    background: url('../images/hunqing/sl_icon_cri.jpg') 0 0 no-repeat;
+                    width: 42px;
+                    line-height: 42px;
+                    text-align: center;
+                    color: #fff;
+                    font-size: 18px;
+                    float: left;
+                }
+
+            .sl_main1 .sub2 .left {
+                margin-left: 45px;
+                margin-top: 28px;
+                float: left;
+            }
+
+            .sl_main1 .sub2 .right {
+                margin-left: 21px;
+                margin-top: 28px;
+                float: left;
+            }
+
+                .sl_main1 .sub2 .right ul li {
+                    background: #e3e3e3;
+                    width: 425px;
+                    height: 67px;
+                    margin-bottom: 8px;
+                }
+
+                    .sl_main1 .sub2 .right ul li .p1 {
+                        text-indent: 15px;
+                        color: #c30823;
+                        font-size: 22px;
+                        line-height: 33px;
+                    }
+
+                    .sl_main1 .sub2 .right ul li .p2 {
+                        text-indent: 15px;
+                        color: #333;
+                        font-size: 20px;
+                        line-height: 30px;
+                    }
+
+            .sl_main1 .sub2 .list {
+                margin-top: 30px;
+            }
+
+                .sl_main1 .sub2 .list ul {
+                    margin-left: 15px;
+                }
+
+                    .sl_main1 .sub2 .list ul li {
+                        float: left;
+                        margin-left: 30px;
+                    }
+
+                        .sl_main1 .sub2 .list ul li .text1 {
+                            color: #fff;
+                            font-size: 20px;
+                            background: #cb4d5e;
+                        }
+
+                        .sl_main1 .sub2 .list ul li .text2 {
+                            color: #333;
+                            font-size: 18px;
+                            text-align: left;
+                            background: #e3e3e3;
+                            height: 90px;
+                        }

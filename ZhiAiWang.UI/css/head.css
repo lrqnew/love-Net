@@ -1,0 +1,86 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+body,ul,li,ol,p,h1,h2,h3,h4,h5,h6,form,input,td,tr{ margin:0; padding:0;}
+body{ font-size:14px; font-family:"微软雅黑"; color:#3c3c3c; line-height:1.7; }
+a{ text-decoration:none; color:#888;}
+ul{ list-style:none;}
+ol {list-style: none;}
+img{ border:none;}
+a:focus{outline:none;} /*IE下 a标签点击不出现边框*/
+em{ font-style:normal;}
+i{ font-style:normal;}
+input,select,textarea:focus{ outline:none;}/*获得焦点是外边框为无*/
+.clear{ clear:both; overflow:hidden; height:0;}
+.fl{ float:left;}
+.fr{ float:right;}
+.abs{ position:absolute;}
+.rel{ position:relative;}
+/*头部导航*/
+#menu-index_nav a{ color:#000}
+.g-header.header-show{ background:#fff}
+
+.g-header {
+    position: fixed;
+    left: 0;
+    z-index: 3000;
+    width: 100%;
+    height: 77px;
+    padding: 19px 0;
+    background-color: #fff;
+    opacity: .98;
+    box-shadow: 0 1px 0 rgba(0,0,0,.1); top:0;
+}
+
+.home-page .g-header {
+    background-color: transparent;
+    box-shadow: none;
+    -webkit-transition: all .4s;
+    transition: all .4s;
+}
+
+.have_search .g-header, .page-scroll .g-header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    z-index: 3000;
+    background-color: #fff;
+    box-shadow: 1px 1px 10px rgba(0,0,0,.2);
+    -webkit-transition: all .6s;
+    transition: all .6s;
+}
+
+.g-header.header-show {
+    margin-top: 0;
+}
+
+.g-header.header-show {
+    background: #fff; background:rgba(255,255,255,1)
+}
+.g-header.header-hide {
+    margin-top: -115px;
+}
+
+/*头部*/
+.ac_header{ width: 1190px; margin: 0  auto; }
+    .ac_header .logo {
+        float: left;
+        background-image: url('../images/reg/Logo.png');
+        width: 330px;
+        height: 86px;
+    }
+.ac_header .right_nav{float: right;font-size: 18px;color: #666;margin-top: 18px;}
+.ac_header .right_nav ul li{float: left; padding:0 9px;text-align: center; height:30px; position: relative; border:solid 1px #fff;}
+.ac_header .right_nav ul li .xx{background: #d86ea3;color: #fff;font-size: 12px;height: 25px;display: block;width: 25px;position:absolute;left: 64px;top: -4px;-moz-border-radius: 5px;-webkit-border-radius: 5px;border-radius:50%; line-height: 25px;}
+.ac_header .right_nav ul li span{ font-weight:bold; font-size:16px; margin-right:6px;}
+.ac_header .right_nav ul li a{ color: #666; padding:4px 10px;}
+.ac_header .right_nav ul li a:hover{ color:#d86ea3; }
+.ac_header .right_nav ul li:hover{border:solid 1px #d86ea3; border-radius: 15px;}
+.ac_header .right_nav ul li ul{  width: 150px; padding:0 20px; background: #d86ea3  }
+.ac_header .right_nav ul li div{ background:url(../images/active/naver.png) no-repeat 86px 24px; position: absolute; top:25px; left: -50px; padding-top: 29px; display: none}
+.ac_header .right_nav ul li ul li{  float: none; width: 100%; height: 30px;line-height:30px; padding: 10px 0;  border:none; border-bottom:solid 1px #ffafe4;}
+.ac_header .right_nav ul li ul li:hover{ border:none; border-bottom:solid 1px #ffafe4; border-radius: 0px;}
+.ac_header .right_nav ul li ul li a{ color: #fff; display: block; font-size: 14px;}
+.ac_header .right_nav ul li ul li a:hover{ color: #fed2c8 ;}
+.ac_header .right_nav ul li ul li:last-child{ border:none; }
